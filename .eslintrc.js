@@ -12,6 +12,6 @@ module.exports = {
         "no-cond-assign": ["error", "always"],
 
         // disable rules from base configurations
-        "no-console": "warn",
+        "no-await-in-loop": "warn",
     }
 }
