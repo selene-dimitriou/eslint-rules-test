@@ -6,3 +6,4 @@ async function foo(things) {
   }
   return baz(results);
 }
+
