@@ -10,8 +10,7 @@ module.exports = {
         // override default options for rules from base configurations
         "comma-dangle": ["error", "always"],
         "no-cond-assign": ["error", "always"],
-
-        // disable rules from base configurations
         "no-await-in-loop": "warn",
+        "for-direction": "warn"
     }
 }
